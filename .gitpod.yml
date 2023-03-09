@@ -1,5 +1,5 @@
 image: phlummox/android-studio:latest
-  file: .gitpod.Dockerfile
+  file: Dockerfile
 
 ports:
   - port: 6080
